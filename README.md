@@ -61,7 +61,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone this repository:**
     ```sh
-    git clone https://github.com/yourusername/patient-monitoring-system.git
+    git clone https://github.com/omkarpawar201/Patient-monitoring-system.git
     cd patient-monitoring-system
     ```
 
